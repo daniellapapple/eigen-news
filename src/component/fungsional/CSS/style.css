@@ -1,0 +1,50 @@
+.header-wrap {
+    background-color: #000000;
+    padding: 20px 40px;
+    margin-bottom: 15px;
+}
+
+.header-wrap h1 {
+    color: #fff;
+    font-size: medium;
+    margin-bottom: 0;
+}
+
+.list-news p {
+    margin-bottom: 0;
+    color: #000000
+}
+
+.list-news h3 {
+    color: #000000;
+}
+
+.list-news a {
+    text-decoration: none;
+}
+
+.list-news {
+    padding: 25px;
+    border-radius: 5px;
+}
+
+.list-news:hover {
+    background-color: rgba(0,0,0,0.2);
+    transition: all 0.1s ease;
+}
+
+.detail-news {
+    padding: 0 25px;
+}
+
+.algo-menu {
+    padding: 25px
+}
+
+.algo-menu a {
+    margin-right: 15px;
+    background: silver;
+    padding: 15px;
+    border-radius: 10px;
+    color: black;
+}
